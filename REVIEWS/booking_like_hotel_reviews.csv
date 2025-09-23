@@ -1,0 +1,221 @@
+review_id,source,language,review_date,stay_nights,traveler_type,trip_purpose,country,room_type,rating_overall,rating_staff,rating_cleanliness,rating_comfort,rating_location,rating_facilities,rating_value_for_money,review_title,review_text,would_return
+BKG-10060,Booking.com,en,2025-06-01,1,Business,Business,PL,Standard Double,8,9,8,9,8,8,7,Decent for short stay,Excellent coffee and nice terrace.,True
+BKG-10064,Booking.com,fr,2025-06-01,3,Couple,Leisure,IT,Superior Double,1,1,1,1,4,1,2,Could be better,Too expensive for what you get. Could hear noise from the corridor.,False
+BKG-10143,Booking.com,es,2025-06-02,1,Business,Business,UK,Superior Double,9,10,10,8,8,10,9,Great stay,Great breakfast with fresh options.,True
+BKG-10185,Booking.com,ru,2025-06-03,3,Couple,Business,IT,Twin,7,7,8,8,7,6,7,Decent for short stay,Bathroom needed better cleaning. Could hear noise from the corridor.,False
+BKG-10113,Booking.com,it,2025-06-04,2,Solo,Leisure,IT,Superior Double,10,10,10,10,10,10,10,Great stay,Good value for money.,True
+BKG-10190,Booking.com,ru,2025-06-04,2,Family,Leisure,IT,Superior Double,7,7,6,8,7,7,10,Decent for short stay,Air conditioning was weak. Wi‑Fi kept disconnecting.,False
+BKG-10076,Booking.com,it,2025-06-04,1,Solo,Leisure,DE,Twin,9,8,9,9,10,7,7,Great stay,Excellent coffee and nice terrace.,True
+BKG-10057,Booking.com,en,2025-06-05,2,Couple,Business,PL,Twin,5,5,5,8,5,5,5,Could be better,Air conditioning was weak.,False
+BKG-10044,Booking.com,fr,2025-06-06,1,Solo,Business,IT,Standard Double,8,10,8,8,10,9,6,Decent for short stay,Excellent coffee and nice terrace.,False
+BKG-10055,Booking.com,it,2025-06-06,4,Couple,Leisure,NL,Standard Double,9,10,10,10,10,8,10,Great stay,Room was clean and comfortable.,True
+BKG-10122,Booking.com,it,2025-06-06,2,Couple,Leisure,UA,Single,9,9,10,7,10,10,9,Great stay,Excellent coffee and nice terrace.,True
+BKG-10213,Booking.com,it,2025-06-07,2,Couple,Business,IT,Superior Double,8,7,9,7,9,7,9,Decent for short stay,Room was clean and comfortable.,True
+BKG-10023,Booking.com,pl,2025-06-08,2,Business,Business,IT,Standard Double,7,7,7,8,8,7,6,Decent for short stay,Room was smaller than expected.,False
+BKG-10002,Booking.com,it,2025-06-08,2,Couple,Leisure,CH,Twin,7,4,5,6,10,7,6,Decent for short stay,Too expensive for what you get.,False
+BKG-10110,Booking.com,it,2025-06-09,1,Family,Leisure,IT,Family Room,3,4,2,4,6,4,3,Could be better,Wi‑Fi kept disconnecting.,False
+BKG-10012,Booking.com,en,2025-06-09,2,Couple,Leisure,CH,Single,6,7,6,5,6,6,6,Could be better,Breakfast felt limited and repetitive. Too expensive for what you get.,False
+BKG-10125,Booking.com,en,2025-06-10,1,Business,Business,US,Standard Double,8,9,9,10,9,7,9,Decent for short stay,Good value for money.,True
+BKG-10043,Booking.com,pl,2025-06-10,2,Family,Leisure,IT,Superior Double,10,10,10,10,10,9,10,Great stay,Staff was very kind and helpful.,True
+BKG-10208,Booking.com,uk,2025-06-10,1,Business,Business,IT,Superior Double,10,9,10,10,10,10,9,Great stay,"Great breakfast with fresh options. Excellent coffee and nice terrace. I met my soulmate at breakfast, 11/10.",True
+BKG-10046,Booking.com,en,2025-06-10,2,Solo,Leisure,PL,Standard Double,7,8,5,8,7,8,8,Decent for short stay,Breakfast felt limited and repetitive.,False
+BKG-10170,Booking.com,de,2025-06-10,1,Couple,Leisure,PL,Standard Double,8,9,8,8,10,8,9,Decent for short stay,Great breakfast with fresh options.,True
+BKG-10193,Booking.com,en,2025-06-11,5,Business,Business,FR,Superior Double,10,10,10,10,9,10,10,Great stay,Good value for money.,True
+BKG-10085,Booking.com,de,2025-06-11,4,Business,Business,UK,Twin,9,8,9,10,7,9,7,Great stay,Room was clean and comfortable.,True
+BKG-10016,Booking.com,it,2025-06-12,3,Couple,Leisure,IT,Standard Double,7,9,8,4,6,7,6,Decent for short stay,Room was smaller than expected.,False
+BKG-10090,Booking.com,en,2025-06-12,3,Business,Business,IT,Standard Double,7,6,8,7,8,7,8,Decent for short stay,Room was smaller than expected.,False
+BKG-10184,Booking.com,de,2025-06-13,4,Friends,Leisure,US,Twin,7,6,10,5,4,5,6,Decent for short stay,Bathroom needed better cleaning. Breakfast felt limited and repetitive.,False
+BKG-10058,Booking.com,ru,2025-06-14,1,Solo,Leisure,IT,Family Room,1,1,1,1,3,3,2,Could be better,Too expensive for what you get.,False
+BKG-10215,Booking.com,it,2025-06-14,4,Couple,Leisure,CH,Twin,9,7,9,10,8,9,6,Great stay,"Perfect location, close to the lake. Great breakfast with fresh options.",False
+BKG-10106,Booking.com,uk,2025-06-14,1,Couple,Leisure,FR,Standard Double,8,8,9,8,6,7,6,Decent for short stay,Good value for money. Check-in was quick and smooth.,False
+BKG-10127,Booking.com,it,2025-06-15,1,Couple,Leisure,CH,Twin,9,8,10,8,9,8,7,Great stay,Great breakfast with fresh options. This croissant cured my Monday sadness.,True
+BKG-10116,Booking.com,it,2025-06-15,2,Couple,Leisure,PL,Single,2,1,1,1,3,2,2,Could be better,Could hear noise from the corridor. Bathroom needed better cleaning.,False
+BKG-10081,Booking.com,de,2025-06-17,4,Couple,Leisure,IT,Twin,7,5,6,8,6,8,6,Decent for short stay,Room was smaller than expected.,False
+BKG-10189,Booking.com,it,2025-06-17,2,Business,Business,IT,Single,9,10,10,6,9,10,7,Great stay,Check-in was quick and smooth.,True
+BKG-10123,Booking.com,fr,2025-06-18,4,Solo,Business,UK,Standard Double,7,9,7,6,7,7,8,Decent for short stay,Too expensive for what you get. Room was smaller than expected.,False
+BKG-10062,Booking.com,it,2025-06-18,1,Business,Business,IT,Family Room,7,7,6,9,7,8,6,Decent for short stay,Room was smaller than expected. Too expensive for what you get.,False
+BKG-10031,Booking.com,en,2025-06-18,4,Couple,Leisure,UA,Twin,8,9,10,8,9,8,7,Decent for short stay,Staff was very kind and helpful.,True
+BKG-10199,Booking.com,pl,2025-06-18,4,Couple,Business,UK,Family Room,8,10,8,7,7,7,7,Decent for short stay,Staff was very kind and helpful.,True
+BKG-10211,Booking.com,uk,2025-06-19,3,Family,Leisure,UK,Twin,7,8,6,7,7,6,7,Decent for short stay,Breakfast felt limited and repetitive. I expected ocean view in a city without an ocean.,False
+BKG-10010,Booking.com,it,2025-06-19,2,Couple,Leisure,IT,Standard Double,10,10,10,8,10,10,9,Great stay,"Perfect location, close to the lake. Excellent coffee and nice terrace. I met my soulmate at breakfast, 11/10.",True
+BKG-10154,Booking.com,pl,2025-06-20,2,Family,Leisure,UK,Superior Double,8,8,9,7,8,8,7,Decent for short stay,Check-in was quick and smooth.,True
+BKG-10212,Booking.com,it,2025-06-20,1,Couple,Leisure,UA,Superior Double,6,4,5,5,8,8,6,Could be better,Room was smaller than expected.,False
+BKG-10059,Booking.com,it,2025-06-20,1,Business,Business,IT,Standard Double,9,9,7,10,9,9,10,Great stay,Good value for money.,True
+BKG-10077,Booking.com,es,2025-06-21,1,Couple,Leisure,IT,Twin,6,6,5,7,4,7,4,Could be better,Air conditioning was weak.,False
+BKG-10011,Booking.com,it,2025-06-21,2,Family,Leisure,IT,Twin,1,1,3,1,3,1,1,Could be better,Air conditioning was weak.,False
+BKG-10066,Booking.com,it,2025-06-22,3,Family,Leisure,IT,Standard Double,9,8,10,9,10,9,7,Great stay,"Quiet at night, slept really well.",True
+BKG-10111,Booking.com,en,2025-06-22,5,Solo,Leisure,UK,Standard Double,8,9,7,8,10,8,9,Decent for short stay,"Perfect location, close to the lake.",True
+BKG-10192,Booking.com,ru,2025-06-22,3,Couple,Leisure,UA,Superior Double,7,6,7,6,7,7,7,Decent for short stay,Room was smaller than expected. Room was smaller than expected.,False
+BKG-10200,Booking.com,uk,2025-06-23,2,Solo,Leisure,UA,Standard Double,8,9,8,6,10,7,7,Decent for short stay,Check-in was quick and smooth. Staff was very kind and helpful.,True
+BKG-10166,Booking.com,en,2025-06-23,1,Business,Business,IT,Superior Double,8,9,8,7,8,6,8,Decent for short stay,Good value for money.,True
+BKG-10155,Booking.com,en,2025-06-23,2,Couple,Leisure,FR,Standard Double,5,4,7,6,5,3,5,Could be better,Bathroom needed better cleaning.,False
+BKG-10089,Booking.com,pl,2025-06-24,2,Couple,Leisure,NL,Single,8,8,9,8,7,8,7,Decent for short stay,Check-in was quick and smooth.,True
+BKG-10049,Booking.com,en,2025-06-24,3,Couple,Leisure,IT,Family Room,3,2,3,2,2,2,2,Could be better,Room was smaller than expected.,False
+BKG-10093,Booking.com,it,2025-06-25,3,Business,Business,IT,Standard Double,10,10,9,10,10,10,10,Great stay,Great breakfast with fresh options.,True
+BKG-10112,Booking.com,pl,2025-06-27,1,Family,Leisure,IT,Twin,10,10,10,9,10,9,9,Great stay,Staff was very kind and helpful.,True
+BKG-10130,Booking.com,uk,2025-06-27,2,Couple,Leisure,IT,Standard Double,7,6,6,8,6,8,7,Decent for short stay,Breakfast felt limited and repetitive.,False
+BKG-10028,Booking.com,it,2025-06-28,1,Business,Business,UA,Single,8,7,7,8,9,9,7,Decent for short stay,Excellent coffee and nice terrace.,True
+BKG-10172,Booking.com,de,2025-06-28,2,Business,Business,IT,Standard Double,5,7,5,4,4,4,5,Could be better,Too expensive for what you get.,False
+BKG-10174,Booking.com,de,2025-06-28,1,Solo,Business,IT,Superior Double,8,8,8,7,7,10,10,Decent for short stay,Good value for money. Good value for money.,True
+BKG-10209,Booking.com,es,2025-06-30,3,Friends,Leisure,UA,Twin,9,8,9,8,8,10,9,Great stay,"Perfect location, close to the lake.",True
+BKG-10197,Booking.com,uk,2025-06-30,1,Couple,Business,DE,Twin,9,8,9,7,8,8,8,Great stay,Excellent coffee and nice terrace.,True
+BKG-10072,Booking.com,pl,2025-06-30,3,Couple,Leisure,DE,Twin,10,10,9,9,10,9,10,Great stay,Staff was very kind and helpful.,True
+BKG-10194,Booking.com,de,2025-06-30,3,Couple,Business,IT,Standard Double,8,8,9,9,9,8,7,Decent for short stay,Excellent coffee and nice terrace. Excellent coffee and nice terrace.,True
+BKG-10144,Booking.com,it,2025-06-30,3,Couple,Business,DE,Superior Double,9,9,7,9,10,9,8,Great stay,Check-in was quick and smooth.,True
+BKG-10088,Booking.com,it,2025-07-02,1,Family,Business,IT,Superior Double,8,6,6,7,7,9,9,Decent for short stay,Room was clean and comfortable.,True
+BKG-10030,Booking.com,it,2025-07-02,3,Family,Business,FR,Twin,8,9,10,8,8,6,9,Decent for short stay,"Staff was very kind and helpful. If I could, I'd give 15 stars.",True
+BKG-10078,Booking.com,en,2025-07-02,2,Business,Business,PL,Standard Double,7,6,8,10,5,6,5,Decent for short stay,Bathroom needed better cleaning.,False
+BKG-10218,Booking.com,fr,2025-07-02,2,Business,Business,FR,Single,7,7,8,9,9,7,6,Decent for short stay,Wi‑Fi kept disconnecting. Wi‑Fi kept disconnecting.,False
+BKG-10095,Booking.com,ru,2025-07-03,1,Couple,Leisure,FR,Standard Double,7,7,8,7,5,9,7,Decent for short stay,Air conditioning was weak. Air conditioning was weak.,False
+BKG-10084,Booking.com,en,2025-07-03,1,Couple,Leisure,PL,Standard Double,9,9,10,9,9,9,9,Great stay,Great breakfast with fresh options. Staff was very kind and helpful.,True
+BKG-10056,Booking.com,ru,2025-07-03,2,Couple,Leisure,US,Twin,10,10,10,10,10,10,10,Great stay,"Check-in was quick and smooth. Perfect location, close to the lake.",True
+BKG-10152,Booking.com,de,2025-07-03,1,Family,Leisure,IT,Twin,10,10,10,10,9,9,10,Great stay,Great breakfast with fresh options. This croissant cured my Monday sadness.,True
+BKG-10177,Booking.com,it,2025-07-03,2,Business,Business,UA,Superior Double,8,8,9,8,8,6,8,Decent for short stay,Good value for money. Check-in was quick and smooth.,True
+BKG-10132,Booking.com,en,2025-07-04,2,Couple,Leisure,FR,Standard Double,8,7,8,9,8,9,9,Decent for short stay,"Perfect location, close to the lake.",True
+BKG-10025,Booking.com,en,2025-07-06,2,Couple,Leisure,IT,Single,8,7,8,9,8,8,7,Decent for short stay,Staff was very kind and helpful.,True
+BKG-10191,Booking.com,pl,2025-07-06,5,Solo,Leisure,UK,Standard Double,9,8,10,7,8,8,10,Great stay,Check-in was quick and smooth.,True
+BKG-10164,Booking.com,en,2025-07-06,1,Business,Business,IT,Twin,10,10,9,10,10,10,9,Great stay,Good value for money.,True
+BKG-10153,Booking.com,it,2025-07-07,2,Business,Business,IT,Standard Double,2,4,3,1,2,3,1,Could be better,Breakfast felt limited and repetitive.,False
+BKG-10126,Booking.com,en,2025-07-08,4,Couple,Leisure,IT,Single,9,7,10,10,10,7,7,Great stay,Great breakfast with fresh options.,True
+BKG-10151,Booking.com,en,2025-07-08,5,Couple,Leisure,PL,Twin,7,9,6,9,6,7,7,Decent for short stay,Bathroom needed better cleaning. Room was smaller than expected.,False
+BKG-10037,Booking.com,fr,2025-07-09,1,Couple,Leisure,IT,Standard Double,9,8,10,10,6,10,10,Great stay,Staff was very kind and helpful. This croissant cured my Monday sadness.,True
+BKG-10100,Booking.com,en,2025-07-09,1,Couple,Leisure,IT,Standard Double,10,9,8,9,10,9,10,Great stay,Good value for money.,True
+BKG-10061,Booking.com,en,2025-07-09,1,Family,Leisure,ES,Standard Double,8,8,7,7,8,9,8,Decent for short stay,Excellent coffee and nice terrace. Excellent coffee and nice terrace.,True
+BKG-10140,Booking.com,de,2025-07-09,2,Couple,Leisure,NL,Standard Double,7,7,8,9,7,7,6,Decent for short stay,Too expensive for what you get.,False
+BKG-10101,Booking.com,en,2025-07-10,1,Couple,Leisure,IT,Standard Double,10,8,8,10,10,10,9,Great stay,"Perfect location, close to the lake.",True
+BKG-10198,Booking.com,fr,2025-07-11,1,Couple,Business,PL,Standard Double,6,5,5,4,5,7,7,Could be better,Air conditioning was weak.,False
+BKG-10074,Booking.com,en,2025-07-11,4,Business,Business,US,Superior Double,10,8,9,9,10,10,10,Great stay,Great breakfast with fresh options.,True
+BKG-10021,Booking.com,pl,2025-07-12,2,Solo,Leisure,NL,Single,7,6,6,8,7,5,8,Decent for short stay,Bathroom needed better cleaning.,False
+BKG-10216,Booking.com,it,2025-07-12,2,Family,Business,UA,Single,9,8,7,9,8,10,9,Great stay,"Quiet at night, slept really well.",True
+BKG-10107,Booking.com,it,2025-07-13,2,Solo,Leisure,ES,Superior Double,10,10,10,10,10,8,10,Great stay,Great breakfast with fresh options.,True
+BKG-10032,Booking.com,es,2025-07-14,1,Couple,Leisure,IT,Twin,10,10,9,10,9,10,10,Great stay,Good value for money.,True
+BKG-10168,Booking.com,en,2025-07-14,5,Couple,Leisure,DE,Superior Double,9,10,10,10,10,8,7,Great stay,Excellent coffee and nice terrace.,True
+BKG-10070,Booking.com,it,2025-07-14,2,Solo,Leisure,UK,Standard Double,5,6,6,4,5,3,6,Could be better,Could hear noise from the corridor.,False
+BKG-10195,Booking.com,en,2025-07-15,3,Couple,Leisure,IT,Superior Double,9,8,7,9,7,10,9,Great stay,Good value for money.,True
+BKG-10178,Booking.com,it,2025-07-15,2,Business,Business,IT,Twin,9,10,10,10,10,8,7,Great stay,Staff was very kind and helpful.,True
+BKG-10124,Booking.com,it,2025-07-16,1,Couple,Leisure,IT,Standard Double,8,9,8,6,8,7,9,Decent for short stay,Great breakfast with fresh options.,True
+BKG-10065,Booking.com,en,2025-07-16,1,Couple,Leisure,CH,Standard Double,7,9,5,9,7,6,7,Decent for short stay,Wi‑Fi kept disconnecting. Too expensive for what you get. Reception didn't predict my arrival time telepathically.,False
+BKG-10196,Booking.com,it,2025-07-16,1,Solo,Leisure,IT,Family Room,8,8,8,9,7,6,9,Decent for short stay,Staff was very kind and helpful.,True
+BKG-10086,Booking.com,en,2025-07-17,3,Couple,Leisure,US,Superior Double,6,6,7,7,6,7,6,Could be better,Air conditioning was weak.,False
+BKG-10050,Booking.com,it,2025-07-17,2,Friends,Leisure,DE,Twin,8,7,8,9,9,9,6,Decent for short stay,"Perfect location, close to the lake.",False
+BKG-10217,Booking.com,it,2025-07-18,2,Couple,Leisure,FR,Standard Double,8,10,8,6,7,7,8,Decent for short stay,"Good value for money. Perfect location, close to the lake.",True
+BKG-10003,Booking.com,it,2025-07-18,2,Family,Leisure,IT,Family Room,9,10,9,9,8,10,9,Great stay,Good value for money. Staff was very kind and helpful.,True
+BKG-10000,Booking.com,it,2025-07-18,1,Friends,Leisure,IT,Standard Double,3,2,5,2,4,4,4,Could be better,Bathroom needed better cleaning.,False
+BKG-10087,Booking.com,uk,2025-07-18,1,Business,Business,IT,Twin,8,9,7,7,8,9,8,Decent for short stay,Staff was very kind and helpful.,True
+BKG-10047,Booking.com,it,2025-07-18,1,Couple,Leisure,DE,Twin,9,7,9,10,7,10,9,Great stay,Excellent coffee and nice terrace. Good value for money.,True
+BKG-10165,Booking.com,pl,2025-07-19,1,Family,Leisure,IT,Standard Double,2,2,1,2,3,4,1,Could be better,Air conditioning was weak. Room was smaller than expected.,False
+BKG-10013,Booking.com,en,2025-07-19,1,Friends,Business,IT,Twin,10,10,10,8,10,9,10,Great stay,"Quiet at night, slept really well.",True
+BKG-10042,Booking.com,uk,2025-07-19,3,Solo,Business,IT,Standard Double,10,9,10,9,9,8,10,Great stay,"Perfect location, close to the lake.",True
+BKG-10119,Booking.com,it,2025-07-19,5,Couple,Leisure,CH,Single,8,9,7,7,8,9,6,Decent for short stay,Good value for money.,False
+BKG-10015,Booking.com,en,2025-07-20,1,Solo,Leisure,UA,Standard Double,3,1,4,3,4,3,2,Could be better,Could hear noise from the corridor.,False
+BKG-10029,Booking.com,it,2025-07-22,1,Solo,Leisure,FR,Single,9,9,8,9,9,10,10,Great stay,Room was clean and comfortable.,True
+BKG-10157,Booking.com,pl,2025-07-23,1,Couple,Business,IT,Single,7,5,6,8,7,7,7,Decent for short stay,Air conditioning was weak.,False
+BKG-10053,Booking.com,it,2025-07-23,2,Solo,Leisure,PL,Standard Double,7,7,6,7,7,8,7,Decent for short stay,Breakfast felt limited and repetitive.,False
+BKG-10131,Booking.com,pl,2025-07-23,2,Solo,Business,ES,Superior Double,8,10,6,9,9,10,8,Decent for short stay,Good value for money.,True
+BKG-10186,Booking.com,it,2025-07-24,2,Couple,Business,IT,Standard Double,10,10,10,10,10,9,10,Great stay,"Quiet at night, slept really well. I met my soulmate at breakfast, 11/10.",True
+BKG-10091,Booking.com,it,2025-07-24,4,Solo,Leisure,UK,Superior Double,8,7,9,6,9,6,8,Decent for short stay,Excellent coffee and nice terrace.,True
+BKG-10082,Booking.com,de,2025-07-24,3,Solo,Leisure,IT,Standard Double,9,8,9,10,8,10,10,Great stay,Great breakfast with fresh options.,True
+BKG-10022,Booking.com,en,2025-07-24,1,Solo,Leisure,US,Single,10,10,10,10,10,9,8,Great stay,"Quiet at night, slept really well.",True
+BKG-10181,Booking.com,it,2025-07-25,5,Friends,Business,FR,Family Room,9,9,10,8,10,9,9,Great stay,Great breakfast with fresh options.,True
+BKG-10146,Booking.com,it,2025-07-26,1,Business,Business,CH,Superior Double,7,7,9,9,10,7,7,Decent for short stay,Could hear noise from the corridor.,False
+BKG-10001,Booking.com,it,2025-07-26,2,Friends,Business,CH,Family Room,8,10,8,8,9,8,6,Decent for short stay,"Perfect location, close to the lake.",False
+BKG-10071,Booking.com,es,2025-07-26,2,Business,Business,DE,Standard Double,9,9,8,9,10,8,9,Great stay,"Perfect location, close to the lake.",True
+BKG-10073,Booking.com,it,2025-07-26,2,Couple,Leisure,UA,Single,6,7,6,7,6,8,6,Could be better,Wi‑Fi kept disconnecting. Bathroom needed better cleaning.,False
+BKG-10008,Booking.com,it,2025-07-27,1,Solo,Business,CH,Standard Double,2,2,2,3,1,1,2,Could be better,Too expensive for what you get. Room was smaller than expected.,False
+BKG-10080,Booking.com,en,2025-07-27,1,Family,Leisure,IT,Superior Double,9,10,9,10,9,10,9,Great stay,"Check-in was quick and smooth. Excellent coffee and nice terrace. I met my soulmate at breakfast, 11/10.",True
+BKG-10052,Booking.com,uk,2025-07-27,2,Business,Business,IT,Standard Double,6,7,7,5,7,7,6,Could be better,Bathroom needed better cleaning. Bathroom needed better cleaning. I expected ocean view in a city without an ocean.,False
+BKG-10129,Booking.com,pl,2025-07-29,2,Couple,Business,IT,Superior Double,8,7,9,7,7,8,8,Decent for short stay,"Quiet at night, slept really well. Great breakfast with fresh options.",True
+BKG-10148,Booking.com,it,2025-07-29,2,Business,Business,DE,Superior Double,9,9,10,9,10,9,9,Great stay,Good value for money.,True
+BKG-10017,Booking.com,es,2025-07-30,1,Business,Business,IT,Twin,9,8,10,9,9,6,10,Great stay,Room was clean and comfortable.,True
+BKG-10134,Booking.com,en,2025-07-30,2,Business,Business,IT,Standard Double,8,9,8,7,9,10,8,Decent for short stay,Good value for money.,True
+BKG-10054,Booking.com,it,2025-07-30,1,Friends,Business,CH,Single,9,8,10,7,10,9,9,Great stay,Staff was very kind and helpful.,True
+BKG-10159,Booking.com,en,2025-07-31,1,Couple,Leisure,UK,Twin,7,7,6,8,8,6,7,Decent for short stay,Room was smaller than expected. Bathroom needed better cleaning.,False
+BKG-10035,Booking.com,it,2025-07-31,2,Family,Leisure,FR,Standard Double,10,10,10,10,10,9,8,Great stay,Check-in was quick and smooth.,True
+BKG-10133,Booking.com,it,2025-07-31,2,Solo,Leisure,IT,Single,6,6,6,6,7,5,7,Could be better,Too expensive for what you get.,False
+BKG-10099,Booking.com,fr,2025-07-31,4,Solo,Business,FR,Twin,9,8,10,8,9,8,10,Great stay,Good value for money.,True
+BKG-10114,Booking.com,it,2025-07-31,2,Couple,Leisure,IT,Standard Double,2,2,1,3,1,3,3,Could be better,Air conditioning was weak. Air conditioning was weak.,False
+BKG-10145,Booking.com,en,2025-08-01,3,Family,Leisure,UA,Twin,8,8,9,9,8,7,7,Decent for short stay,Excellent coffee and nice terrace.,True
+BKG-10167,Booking.com,fr,2025-08-02,1,Family,Leisure,UK,Superior Double,8,8,10,8,6,7,9,Decent for short stay,Great breakfast with fresh options.,True
+BKG-10104,Booking.com,de,2025-08-03,2,Couple,Leisure,NL,Family Room,1,1,1,1,2,3,2,Could be better,Breakfast felt limited and repetitive.,False
+BKG-10092,Booking.com,en,2025-08-04,4,Solo,Business,IT,Standard Double,10,10,10,10,10,10,9,Great stay,Check-in was quick and smooth.,True
+BKG-10160,Booking.com,uk,2025-08-04,3,Couple,Leisure,CH,Twin,7,5,8,7,7,5,5,Decent for short stay,Room was smaller than expected. Could hear noise from the corridor.,False
+BKG-10026,Booking.com,pl,2025-08-05,2,Couple,Leisure,IT,Standard Double,7,5,7,8,7,6,10,Decent for short stay,Bathroom needed better cleaning.,False
+BKG-10105,Booking.com,it,2025-08-05,3,Business,Business,FR,Standard Double,9,9,10,7,8,8,9,Great stay,Check-in was quick and smooth.,True
+BKG-10136,Booking.com,it,2025-08-07,2,Family,Leisure,CH,Twin,8,7,9,6,8,8,7,Decent for short stay,"Great breakfast with fresh options. Quiet at night, slept really well.",True
+BKG-10147,Booking.com,it,2025-08-08,1,Couple,Leisure,IT,Superior Double,7,7,8,7,7,8,8,Decent for short stay,Bathroom needed better cleaning.,False
+BKG-10063,Booking.com,en,2025-08-09,2,Business,Business,IT,Superior Double,6,6,8,5,4,6,5,Could be better,Too expensive for what you get. Breakfast felt limited and repetitive.,False
+BKG-10048,Booking.com,uk,2025-08-09,1,Couple,Leisure,IT,Standard Double,9,9,10,10,8,9,6,Great stay,Staff was very kind and helpful.,False
+BKG-10034,Booking.com,en,2025-08-09,1,Solo,Leisure,IT,Standard Double,10,10,9,8,9,10,8,Great stay,Good value for money.,True
+BKG-10004,Booking.com,en,2025-08-10,3,Couple,Leisure,UK,Family Room,8,6,8,8,9,9,8,Decent for short stay,Great breakfast with fresh options.,True
+BKG-10210,Booking.com,fr,2025-08-10,1,Business,Business,PL,Twin,6,6,8,6,7,5,6,Could be better,Wi‑Fi kept disconnecting. Wi‑Fi kept disconnecting.,False
+BKG-10176,Booking.com,en,2025-08-11,2,Family,Leisure,UA,Standard Double,10,10,10,9,9,10,10,Great stay,"Quiet at night, slept really well. Check-in was quick and smooth.",True
+BKG-10075,Booking.com,de,2025-08-11,2,Solo,Business,IT,Superior Double,10,10,10,9,10,10,10,Great stay,Great breakfast with fresh options.,True
+BKG-10179,Booking.com,it,2025-08-12,2,Solo,Business,US,Superior Double,5,6,5,4,4,5,3,Could be better,Could hear noise from the corridor.,False
+BKG-10161,Booking.com,de,2025-08-12,2,Business,Business,UA,Single,10,10,10,10,10,10,10,Great stay,"Excellent coffee and nice terrace. I met my soulmate at breakfast, 11/10.",True
+BKG-10162,Booking.com,it,2025-08-13,2,Friends,Business,IT,Standard Double,7,4,6,8,6,5,6,Decent for short stay,Air conditioning was weak. Room was smaller than expected.,False
+BKG-10007,Booking.com,uk,2025-08-13,4,Solo,Leisure,IT,Standard Double,6,7,7,5,6,6,5,Could be better,Wi‑Fi kept disconnecting.,False
+BKG-10120,Booking.com,pl,2025-08-14,1,Business,Business,UK,Superior Double,7,7,5,7,7,6,7,Decent for short stay,Too expensive for what you get. Wi‑Fi kept disconnecting.,False
+BKG-10182,Booking.com,es,2025-08-14,2,Business,Business,CH,Standard Double,10,9,9,9,10,10,10,Great stay,Staff was very kind and helpful.,True
+BKG-10207,Booking.com,fr,2025-08-14,1,Solo,Leisure,DE,Superior Double,10,9,10,9,10,10,10,Great stay,Staff was very kind and helpful.,True
+BKG-10039,Booking.com,it,2025-08-15,2,Business,Business,PL,Standard Double,9,10,9,8,8,10,8,Great stay,Good value for money.,True
+BKG-10128,Booking.com,es,2025-08-15,2,Solo,Business,IT,Standard Double,7,5,7,7,7,6,6,Decent for short stay,Air conditioning was weak.,False
+BKG-10205,Booking.com,uk,2025-08-15,2,Family,Business,IT,Standard Double,9,8,9,8,10,10,6,Great stay,"Perfect location, close to the lake. I met my soulmate at breakfast, 11/10.",False
+BKG-10149,Booking.com,ru,2025-08-15,2,Family,Leisure,UA,Single,8,9,8,9,10,6,10,Decent for short stay,"Quiet at night, slept really well.",True
+BKG-10121,Booking.com,ru,2025-08-16,2,Couple,Leisure,IT,Superior Double,8,8,9,8,6,8,9,Decent for short stay,"Room was clean and comfortable. I met my soulmate at breakfast, 11/10.",True
+BKG-10158,Booking.com,pl,2025-08-17,1,Family,Leisure,IT,Family Room,9,10,7,8,8,10,10,Great stay,"Quiet at night, slept really well.",True
+BKG-10067,Booking.com,en,2025-08-17,2,Family,Leisure,UK,Single,8,10,8,7,9,8,6,Decent for short stay,Great breakfast with fresh options.,False
+BKG-10141,Booking.com,it,2025-08-18,3,Couple,Leisure,IT,Superior Double,8,9,9,8,6,7,6,Decent for short stay,Great breakfast with fresh options.,False
+BKG-10201,Booking.com,en,2025-08-18,2,Family,Leisure,IT,Standard Double,10,10,10,10,10,8,10,Great stay,Check-in was quick and smooth.,True
+BKG-10137,Booking.com,it,2025-08-18,2,Friends,Leisure,UK,Standard Double,2,3,2,2,2,2,1,Could be better,Wi‑Fi kept disconnecting.,False
+BKG-10183,Booking.com,es,2025-08-19,2,Couple,Leisure,IT,Single,8,7,7,7,8,7,9,Decent for short stay,Check-in was quick and smooth.,True
+BKG-10045,Booking.com,en,2025-08-19,5,Solo,Leisure,CH,Standard Double,7,5,8,8,8,9,6,Decent for short stay,Room was smaller than expected.,False
+BKG-10018,Booking.com,en,2025-08-20,3,Family,Business,PL,Standard Double,8,10,7,7,6,9,7,Decent for short stay,Great breakfast with fresh options. Good value for money.,True
+BKG-10117,Booking.com,it,2025-08-21,1,Solo,Leisure,ES,Standard Double,9,10,9,10,9,8,8,Great stay,Excellent coffee and nice terrace.,True
+BKG-10175,Booking.com,it,2025-08-21,3,Couple,Leisure,UA,Single,9,8,10,9,8,10,9,Great stay,Staff was very kind and helpful.,True
+BKG-10020,Booking.com,fr,2025-08-21,1,Couple,Leisure,PL,Single,1,1,1,1,3,1,1,Could be better,Bathroom needed better cleaning.,False
+BKG-10187,Booking.com,fr,2025-08-21,3,Couple,Leisure,FR,Twin,8,9,8,7,7,7,8,Decent for short stay,Excellent coffee and nice terrace.,True
+BKG-10142,Booking.com,it,2025-08-21,2,Business,Business,FR,Family Room,10,10,10,10,10,10,9,Great stay,"Perfect location, close to the lake.",True
+BKG-10098,Booking.com,es,2025-08-22,2,Couple,Leisure,ES,Single,8,9,7,7,9,8,9,Decent for short stay,Excellent coffee and nice terrace.,True
+BKG-10097,Booking.com,en,2025-08-22,1,Friends,Leisure,DE,Single,10,9,10,8,10,10,10,Great stay,Room was clean and comfortable. Check-in was quick and smooth.,True
+BKG-10027,Booking.com,en,2025-08-22,5,Couple,Leisure,DE,Superior Double,9,8,7,9,9,6,8,Great stay,Check-in was quick and smooth. Good value for money.,True
+BKG-10214,Booking.com,fr,2025-08-23,2,Solo,Leisure,DE,Standard Double,9,10,8,8,9,9,9,Great stay,Room was clean and comfortable.,True
+BKG-10156,Booking.com,en,2025-08-23,2,Couple,Leisure,US,Standard Double,8,9,8,7,10,6,8,Decent for short stay,Great breakfast with fresh options.,True
+BKG-10083,Booking.com,en,2025-08-23,1,Business,Business,DE,Standard Double,3,3,3,3,3,4,3,Could be better,Air conditioning was weak. Bathroom needed better cleaning.,False
+BKG-10118,Booking.com,it,2025-08-23,4,Solo,Leisure,IT,Superior Double,7,8,7,7,7,6,6,Decent for short stay,Wi‑Fi kept disconnecting. Reception didn't predict my arrival time telepathically.,False
+BKG-10109,Booking.com,it,2025-08-24,1,Solo,Leisure,IT,Superior Double,6,6,7,4,7,5,5,Could be better,Too expensive for what you get.,False
+BKG-10019,Booking.com,it,2025-08-24,1,Family,Leisure,IT,Superior Double,2,2,2,3,3,2,4,Could be better,Too expensive for what you get. Bathroom needed better cleaning.,False
+BKG-10138,Booking.com,en,2025-08-24,1,Business,Business,FR,Standard Double,7,5,7,7,8,8,7,Decent for short stay,Could hear noise from the corridor.,False
+BKG-10079,Booking.com,en,2025-08-25,5,Solo,Business,IT,Twin,9,9,10,7,9,7,10,Great stay,"Staff was very kind and helpful. Perfect location, close to the lake.",True
+BKG-10006,Booking.com,ru,2025-08-25,2,Business,Business,IT,Superior Double,9,8,9,9,9,10,9,Great stay,Good value for money. Staff was very kind and helpful.,True
+BKG-10038,Booking.com,en,2025-08-25,2,Business,Business,CH,Superior Double,9,8,9,8,9,8,10,Great stay,Good value for money.,True
+BKG-10024,Booking.com,en,2025-08-25,2,Couple,Business,CH,Standard Double,10,10,10,10,10,10,10,Great stay,Good value for money. Good value for money.,True
+BKG-10188,Booking.com,it,2025-08-25,3,Couple,Leisure,ES,Superior Double,8,8,9,7,7,9,8,Decent for short stay,Good value for money.,True
+BKG-10163,Booking.com,it,2025-08-26,3,Family,Leisure,NL,Superior Double,9,8,10,9,9,10,9,Great stay,Staff was very kind and helpful. Room was clean and comfortable.,True
+BKG-10036,Booking.com,ru,2025-08-26,1,Couple,Leisure,UA,Standard Double,7,8,6,5,5,6,7,Decent for short stay,Air conditioning was weak. Bathroom needed better cleaning.,False
+BKG-10108,Booking.com,pl,2025-08-26,1,Solo,Business,DE,Family Room,7,4,6,7,6,7,6,Decent for short stay,Bathroom needed better cleaning. Room was smaller than expected.,False
+BKG-10096,Booking.com,fr,2025-08-26,1,Family,Leisure,FR,Standard Double,9,9,10,10,10,10,10,Great stay,Room was clean and comfortable.,True
+BKG-10014,Booking.com,en,2025-08-26,1,Couple,Leisure,IT,Single,7,7,7,8,8,6,7,Decent for short stay,Wi‑Fi kept disconnecting.,False
+BKG-10102,Booking.com,en,2025-08-28,2,Business,Business,IT,Twin,10,9,9,9,9,9,10,Great stay,"Quiet at night, slept really well.",True
+BKG-10040,Booking.com,pl,2025-08-29,1,Family,Leisure,IT,Standard Double,10,9,10,10,10,10,9,Great stay,"Quiet at night, slept really well.",True
+BKG-10094,Booking.com,it,2025-08-29,2,Solo,Leisure,US,Standard Double,1,3,1,3,1,2,1,Could be better,Air conditioning was weak.,False
+BKG-10051,Booking.com,es,2025-08-29,3,Business,Business,IT,Twin,8,8,8,9,10,7,9,Decent for short stay,Check-in was quick and smooth.,True
+BKG-10150,Booking.com,pl,2025-08-31,2,Family,Leisure,IT,Standard Double,10,10,10,10,9,10,9,Great stay,"Good value for money. I met my soulmate at breakfast, 11/10.",True
+BKG-10033,Booking.com,en,2025-08-31,1,Couple,Leisure,IT,Family Room,10,10,8,10,10,9,10,Great stay,Excellent coffee and nice terrace. Good value for money.,True
+BKG-10204,Booking.com,en,2025-08-31,1,Solo,Leisure,UA,Superior Double,10,8,10,10,10,10,10,Great stay,Staff was very kind and helpful.,True
+BKG-10219,Booking.com,it,2025-09-01,3,Solo,Leisure,DE,Standard Double,10,8,10,10,10,10,10,Great stay,Staff was very kind and helpful.,True
+BKG-10005,Booking.com,it,2025-09-01,3,Business,Business,DE,Twin,9,10,10,10,10,9,9,Great stay,Staff was very kind and helpful.,True
+BKG-10115,Booking.com,en,2025-09-02,5,Solo,Leisure,IT,Superior Double,2,2,4,2,3,1,1,Could be better,Room was smaller than expected.,False
+BKG-10135,Booking.com,it,2025-09-02,2,Solo,Leisure,FR,Twin,9,9,9,8,10,9,7,Great stay,Staff was very kind and helpful.,True
+BKG-10169,Booking.com,fr,2025-09-02,2,Couple,Leisure,ES,Twin,10,10,10,8,10,10,10,Great stay,Staff was very kind and helpful.,True
+BKG-10139,Booking.com,it,2025-09-04,1,Family,Leisure,FR,Twin,2,3,1,4,3,1,2,Could be better,Too expensive for what you get.,False
+BKG-10009,Booking.com,de,2025-09-04,2,Solo,Leisure,FR,Twin,7,5,6,5,7,8,7,Decent for short stay,Bathroom needed better cleaning.,False
+BKG-10206,Booking.com,uk,2025-09-05,2,Business,Business,IT,Standard Double,8,10,7,10,6,7,7,Decent for short stay,Staff was very kind and helpful.,True
+BKG-10203,Booking.com,en,2025-09-05,1,Solo,Business,FR,Standard Double,7,6,5,7,7,6,6,Decent for short stay,Too expensive for what you get.,False
+BKG-10202,Booking.com,de,2025-09-06,1,Family,Leisure,UA,Standard Double,8,10,9,8,9,8,8,Decent for short stay,Room was clean and comfortable.,True
+BKG-10069,Booking.com,it,2025-09-06,2,Couple,Business,DE,Standard Double,8,7,7,6,9,9,8,Decent for short stay,Staff was very kind and helpful.,True
+BKG-10041,Booking.com,fr,2025-09-06,1,Couple,Business,CH,Standard Double,9,10,7,10,10,8,9,Great stay,Room was clean and comfortable.,True
+BKG-10103,Booking.com,fr,2025-09-06,3,Business,Business,DE,Standard Double,7,7,7,6,7,8,4,Decent for short stay,Wi‑Fi kept disconnecting.,False
+BKG-10173,Booking.com,it,2025-09-07,1,Family,Leisure,UA,Superior Double,7,5,6,5,7,5,8,Decent for short stay,Air conditioning was weak.,False
+BKG-10171,Booking.com,en,2025-09-07,2,Business,Business,DE,Superior Double,9,9,8,10,9,9,9,Great stay,Great breakfast with fresh options. Great breakfast with fresh options.,True
+BKG-10068,Booking.com,de,2025-09-07,3,Couple,Business,CH,Superior Double,7,7,7,7,7,6,8,Decent for short stay,Too expensive for what you get.,False
+BKG-10180,Booking.com,es,2025-09-08,3,Couple,Leisure,PL,Standard Double,10,8,9,10,8,9,10,Great stay,Great breakfast with fresh options.,True
