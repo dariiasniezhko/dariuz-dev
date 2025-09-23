@@ -10,5 +10,5 @@
 ## 📈 Projects
 
 ## 📫 Contacts
-- Email: твой_email@example.com
-- LinkedIn: [linkedin.com/in/твоя_ссылка](https://linkedin.com/in/твоя_ссылка)
+- Email: snezhdar@gmail.com
+- LinkedIn: www.linkedin.com/in/dariia-sniezhko-096979168
